@@ -1,0 +1,57 @@
+span {
+
+	position:absolute;
+
+	left:250px;
+
+}
+
+
+
+li {
+
+	padding:5px;
+
+}
+
+
+
+div {
+
+	background-color:#ffb73b;
+
+}
+
+
+
+input {
+
+	padding:10px; 
+
+}
+
+
+
+button {
+
+	position:relative;
+
+	left: -5px;
+
+	font-family:verdana;
+
+	background-color:#417141;
+
+	padding:10px;
+
+	border-radius:15%;
+
+}
+
+
+
+.apptitle {
+
+	background-color:#417141;
+
+}
